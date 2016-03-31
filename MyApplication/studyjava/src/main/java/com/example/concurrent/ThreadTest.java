@@ -73,5 +73,5 @@ public class ThreadTest {
         TimeUnit.SECONDS.sleep(1);
         stopnew = true;
     }
-    
+
 }
