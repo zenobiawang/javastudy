@@ -5,10 +5,11 @@ import java.util.concurrent.Executors;
 
 /**
  * Created by wanghui on 2016/3/30.
+ *
  */
 public class ExecuterTest {
     public static void main(String[] args){
-
+        test1();
     }
 
     public static void test1(){
@@ -23,4 +24,5 @@ public class ExecuterTest {
         }
         exec.shutdown();
     }
+
 }
