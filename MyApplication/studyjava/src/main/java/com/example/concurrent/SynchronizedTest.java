@@ -36,6 +36,6 @@ public class SynchronizedTest {
                 }
             }
         }).start();
-
+        i = 5;
     }
 }
